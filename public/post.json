@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "https://source.unsplash.com/300x300/?profile",
+        "name": "John Doe",
+        "date": "3 days ago",
+        "tag": "Technology",
+        "heading": "How to create a JSON file",
+        "post_body": "This is a sample post body. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, velit vel bibendum bibendum, nunc sapien bibendum urna, vel ultricies sapien sapien vel nisi. Donec euismod, velit vel bibendum bibendum, nunc sapien bibendum urna, vel ultricies sapien sapien vel nisi.",
+        "comment": "5"
+    },
+    {
+        "id": 2,
+        "img": "https://source.unsplash.com/300x300/?profile",
+        "name": "John Doe",
+        "date": "3 days ago",
+        "tag": "Technology",
+        "heading": "How to create a JSON file",
+        "post_body": "This is a sample post body. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, velit vel bibendum bibendum, nunc sapien bibendum urna, vel ultricies sapien sapien vel nisi. Donec euismod, velit vel bibendum bibendum, nunc sapien bibendum urna, vel ultricies sapien sapien vel nisi.",
+        "comment": "5"
+    }
+]
